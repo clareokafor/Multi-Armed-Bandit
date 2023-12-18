@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # OGOCHUKWU JANE OKAFOR
-# 201666459
 
 # MULTI-ARMED BANDIT
 
