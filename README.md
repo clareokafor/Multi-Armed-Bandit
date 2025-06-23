@@ -46,3 +46,11 @@ These results clearly illustrate how a small amount of exploration can significa
 ## 🧪 Insights
 
 The ε-greedy algorithm consistently outperforms pure greedy approaches by efficiently balancing information gathering with reward maximization. Its adaptability and simplicity make it a powerful tool in online decision-making scenarios.
+
+
+## 📄 License
+
+This project is open-source under the [MIT License](https://github.com/clareokafor/Multi-Armed-Bandit/blob/main/LICENSE).
+
+
+
